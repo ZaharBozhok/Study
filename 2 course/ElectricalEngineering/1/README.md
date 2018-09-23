@@ -1,3 +1,6 @@
-Open first sheet, enter your variant in the yellow field.
-(Optionally: check your variant data)
-Jump to the last sheet - result table without measurements.
+# How to use
+
+  - Open calc file
+  - Enter your variant in the yellow field on the first sheet
+  - (Optionally) Check your variant data
+  - Copy result table from the last sheet
