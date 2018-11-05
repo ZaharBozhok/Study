@@ -1,0 +1,1 @@
+Helpful link http://bourabai.kz/cm/kolmogorov.htm
