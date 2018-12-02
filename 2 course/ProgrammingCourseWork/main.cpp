@@ -1,6 +1,7 @@
 #include<iostream>
 #include<functional>
 #include<random>
+#include<time.h>
 using namespace std;
 
 #include "DoubleList.h"
@@ -14,38 +15,66 @@ struct Temperature
     {}
     int m_day;
     double m_temp;
+    friend ostream& operator<<(ostream& os, const Temperature& temp)
+    {
+        os << "Day : " << temp.m_day << " Temp : " << temp.m_temp;
+        return os;
+    }
 };
 
-template<class T>
-T GetMinOrMax(DoubleList<T> list, std::function<bool(const T&, const T&)> comparator)
+void Help()
 {
-    if (list.size() == 0)
-        throw std::runtime_error("Empty list");
-    std::function<bool(const T&, const T&)> inverseComparator;
-    if (rand() % 2 == 0)
-        inverseComparator = [&comparator](const T&a, const T&b) -> bool {return !comparator(a, b); };
-    else
-        inverseComparator = [&comparator](const T&a, const T&b) -> bool {return comparator(a, b); };
-
-    T maxOrMin = list.pop_back();
-    while (list.size())
-    {
-        T tmp = list.pop_back();
-        if (inverseComparator(maxOrMin, tmp))
-            maxOrMin = tmp;
-    }
-    return maxOrMin;
+    std::cout << "h - help" << std::endl
+        << "a - add new temperature" << std::endl
+        << "m - get max temperature" << std::endl
+        << "s - get sorted by temperature descending " << std::endl
+        << "q - get days with equal temp" << std::endl<<
+     "e - exit" << std::endl;
 }
 
 int main()
 {
+    srand(time(NULL));
     typedef Temperature temp_t;
     DoubleList<temp_t> dl;
-    for (size_t i = 0; i < 10; ++i)
+    char ch = 0;
+    Help();
+    while (ch != 'q')
     {
-        dl.push_back(temp_t(i, i));
+        cout << "Enter your choice : ";
+        std::cin >> ch;
+        temp_t temp;
+        switch (ch)
+        {
+        case 'h':
+            Help();
+            break;
+        case 'a':
+            cout << "Enter day : ";
+            cin >> temp.m_day;
+            cout << "Enter temp : ";
+            cin >> temp.m_temp;
+            dl.push_back(temp);
+            dl.Sort(
+                [](const temp_t& a, const temp_t& b)->bool {return a.m_temp > b.m_temp; }
+            );
+            break;
+        case 'm':
+            std::cout << dl.GetTailVal() << std::endl;
+            break;
+        case 's':
+            std::cout << dl << std::endl;
+            break;
+        case 'q':
+            dl.ShowSame(
+                [](const temp_t& a, const temp_t& b)->bool {return a.m_temp == b.m_temp; }
+            );
+            break;
+        case 'e':
+            return 0;
+            break;
+        }
     }
-    std::cout<<(GetMinOrMax<temp_t>(dl, [](const temp_t& a, const temp_t& b)->bool {return a.m_temp < b.m_temp; })).m_temp;
 #ifdef _DEBUG
         system("pause");
 #endif
