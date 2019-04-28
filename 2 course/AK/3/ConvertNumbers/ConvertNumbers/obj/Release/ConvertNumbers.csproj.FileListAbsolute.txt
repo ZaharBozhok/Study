@@ -1,0 +1,30 @@
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.exe.config
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.FormConvert.resources
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.Properties.Resources.resources
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csproj.GenerateResource.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csprojAssemblyReference.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.exe.config
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.exe
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.pdb
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csprojAssemblyReference.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.FormConvert.resources
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.Properties.Resources.resources
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csproj.GenerateResource.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csproj.CoreCompileInputs.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.exe
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.pdb
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.exe.config
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.exe
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\bin\Release\ConvertNumbers.pdb
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csprojAssemblyReference.cache
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.FormConvert.resources
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.Properties.Resources.resources
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csproj.GenerateResource.cache
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.exe
+C:\Users\ivane\OneDrive\Documents\GIT\study\Study\2 course\AK\3\ConvertNumbers\ConvertNumbers\obj\Release\ConvertNumbers.pdb

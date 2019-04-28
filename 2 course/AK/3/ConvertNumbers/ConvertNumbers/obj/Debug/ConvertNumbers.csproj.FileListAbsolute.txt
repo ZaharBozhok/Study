@@ -1,0 +1,10 @@
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\bin\Debug\ConvertNumbers.exe.config
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\bin\Debug\ConvertNumbers.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\bin\Debug\ConvertNumbers.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.csprojAssemblyReference.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.Properties.Resources.resources
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.csproj.GenerateResource.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\ConvertNumbers\ConvertNumbers\obj\Debug\ConvertNumbers.FormConvert.resources

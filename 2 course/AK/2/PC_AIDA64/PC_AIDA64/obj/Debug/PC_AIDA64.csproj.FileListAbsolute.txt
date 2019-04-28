@@ -1,0 +1,30 @@
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csprojAssemblyReference.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.Form1.resources
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.Properties.Resources.resources
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csproj.GenerateResource.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.exe.config
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.pdb
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.exe.config
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.exe
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.pdb
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csprojAssemblyReference.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.Properties.Resources.resources
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csproj.GenerateResource.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csproj.CoreCompileInputs.cache
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.exe
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.exe.config
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\bin\Debug\PC_AIDA64.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csprojAssemblyReference.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.Properties.Resources.resources
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csproj.GenerateResource.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.exe
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.pdb
+C:\Users\ASUS-1607\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.AIDA_LIGHT.resources
+D:\OneDrive\НТУ 'Дніпровська політехніка'\2 курс\Архітектура комп'ютерів\Лабораторна робота №2\C#\PC_AIDA64\PC_AIDA64\obj\Debug\PC_AIDA64.AIDA_LIGHT.resources
